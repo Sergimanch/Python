@@ -9,6 +9,3 @@ for i in range(len(numeros)):
                 cont += 1
         print(f"{numeros[i]}:{cont}")
         contados.append(numeros[i])  
-    
-            
-    

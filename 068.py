@@ -1,0 +1,5 @@
+numeros = [0, 1, 0, 3, 12, 0, 5]
+for i in numeros:
+    if i==0:
+        for j in range(len(numeros)-1):
+            
