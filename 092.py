@@ -21,3 +21,4 @@ def media(dicc):
 media(alumnos)
 
 def notaAlta(notas):
+    
